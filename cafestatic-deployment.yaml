@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cafestatic
-        image: amruthavm0407/cafe:v1
+        image: dhanyathab25/cafe:v1
         ports:
         - containerPort: 80
